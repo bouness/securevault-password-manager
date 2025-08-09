@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SecureVault
+Comment=Password Manager Application
+Exec=SecureVault
+Icon=/opt/SecureVault/assets/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Security;
+Keywords=password;security;manager;
+StartupWMClass=SecureVault
