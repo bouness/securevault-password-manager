@@ -16,7 +16,32 @@ SecureVault is a modern, secure, and user-friendly password manager designed to 
 - 📊 **Category Organization**: Group credentials by type (Social, Banking, Work, etc.)
 - 🔍 **Powerful Search**: Quickly find any credential by title, username, or URL
 
-## Installation
+## 💖 Support
+
+Scan to donate via Venmo:
+
+![Venmo QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/youness-bougteb)
+
+## 📦 Installation
+
+### 🪟 Windows
+1. Download the latest installer from [Releases](https://github.com/bouness/securevault-password-manager/releases)
+2. Run `SecureVaultInstaller.exe`
+3. Follow the installation wizard
+
+### 🐧 Linux
+1. Download the latest `SecureVault-linux.tar.gz` from [Releases](https://github.com/bouness/securevault-password-manager/releases)
+
+```bash
+tar -xzf SecureVault-linux.tar.gz
+cd SecureVault-v*
+
+# to install
+sudo ./installer/install.sh
+
+# to remove
+sudo ./installer/uninstall.sh
+```
 
 ### Prerequisites
 - Python 3.8+
