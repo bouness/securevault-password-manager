@@ -40,7 +40,7 @@ cp -r src/assets package/SecureVault-$VERSION/ || true
 cp version.py package/SecureVault-$VERSION/ || true
 cp -r installer package/SecureVault-$VERSION/
 cp LICENSE package/SecureVault-$VERSION/
-cp README package/SecureVault-$VERSION/
+cp README.md package/SecureVault-$VERSION/
 
 # === Create tarball ===
 echo "Creating distribution tarball..."

@@ -26,7 +26,7 @@ python -m nuitka ^
     --include-data-dir=src/assets=assets ^
     --include-data-file=version.py=version.py ^
     --include-data-file=LICENSE=LICENSE ^
-    --include-data-file=README=README ^
+    --include-data-file=README.md=README.md ^
     --windows-icon-from-ico=src/assets/icon.ico ^
     --output-dir=dist ^
     src/main.py
